@@ -1,4 +1,4 @@
-# Dhee - Intelligence Through Knowledge
+# Dhee (धी) - Intelligence Through Knowledge
 Repository of practical implementations in Data Science, Machine Learning, AI &amp; Quant Finance. Code blocks, algorithms, and research snippets for modern data-driven solutions.
 
 In Sanskrit, "Dhee" represents supreme intelligence, analytical thinking, and understanding.
