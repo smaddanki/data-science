@@ -1,0 +1,11 @@
+name: veda
+channels:
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  

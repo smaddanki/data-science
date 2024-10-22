@@ -3,6 +3,18 @@ Repository of practical implementations in Data Science, Machine Learning, AI &a
 
 In Sanskrit, "Dhee" represents supreme intelligence, analytical thinking, and understanding.
 
+## Management Environments
+All the project dependencies are listed on environment.yml file.
+To create an environment:
+```
+conda env create --file environment.yml
+```
+
+To Update an environment:
+```
+conda env update --file environment.yml
+```
+
 ## 🌟 Vision
 Dhee aims to be your central repository of intelligence - bridging theoretical knowledge with practical implementations across:
 - 📊 Data Science & Analytics
